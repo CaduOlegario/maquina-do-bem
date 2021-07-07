@@ -7,4 +7,9 @@ export const ContainerCardGrid = styled.div`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 2rem;
+
+  @media(max-width: 800px) {
+    grid-template-columns: 1fr;
+    padding: 0 1rem;
+  }
 `
