@@ -13,19 +13,9 @@ Before developing or deploying the code, you need to install the dependencies us
 ### ou
 ### `yarn`
 
-Install Json Server to run a fake API
-
-### `npm install -g json-server`
-
 ## Developing the code
 
 To start the application for development, run the command: 
-
-### `npm server`
-### ou
-### `yarn server`
-
-### and
 
 ### `npm start`
 ### ou
