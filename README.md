@@ -5,7 +5,9 @@ Project developed for Dev FrontEnd vacancy
 
 ## APP in Production
 
-Click to see the application running [https://maquinadobem-teste.vercel.app/](https://maquinadobem-teste.vercel.app/)## Prepare development environment
+Click to see the application running [https://maquinadobem-teste.vercel.app/](https://maquinadobem-teste.vercel.app/)
+
+## Prepare development environment
 
 Before developing or deploying the code, you need to install the dependencies using the command
 
